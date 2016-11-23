@@ -3,8 +3,8 @@ layout : default
 title : Accueil
 ---
 
-{% for post in site.posts %}
-reversed limit 3
+{% for post in site.posts reversed limit 3 %}
+
 {{post.title}}
 
 {% endfor %}
