@@ -5,6 +5,6 @@ Key:
 layout: products
 ---
 
-{% for product in site.products %}
+{% for product in site.produits %}
   {% include product.html %}
 {% endfor %}
