@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
   produits:
-    title: produits
+    title: products
     output: true
 defaults:
 - scope:
