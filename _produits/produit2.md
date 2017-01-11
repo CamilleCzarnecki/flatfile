@@ -6,3 +6,4 @@ price: 19.96
 image: "../produits/housse-de-coussin-jamais-sans-ma-licorne.jpg"
 weight: 45
 ---
+
