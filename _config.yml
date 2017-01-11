@@ -8,4 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+  produits:
+    title: produits
+    output: true
 baseurl: https://camilleczarnecki.github.io/flatfile
