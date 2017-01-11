@@ -1,5 +1,5 @@
 ---
-title : article4
+title: article4
 ---
 
 L'université de Californie à Los Angeles ;

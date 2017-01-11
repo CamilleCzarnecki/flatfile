@@ -1,5 +1,6 @@
 ---
 title: Mon article 1
+date: 2016-11-23 00:00:00 Z
 ---
 
 En 1962, alors que le communisme faisait force, 
